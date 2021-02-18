@@ -1,0 +1,16 @@
+body {
+    background-color: #0cfa37;
+}
+.btn{
+    text-align: center;
+    color: crimson;
+    background-color: darkblue;
+    border-radius: 50px;
+}
+.btn:hover{
+    background-color:gold;
+}
+.label{
+    font-family: 'Potta One', cursive;
+    text-align: center;
+}
